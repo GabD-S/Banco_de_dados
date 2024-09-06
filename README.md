@@ -7,8 +7,7 @@
 
 <div align="center">
   <img src="Imagens/BEE.png" alt="Beecrowd" style="width:100px;">
-</div>
-
+</div> 
 
 ## 📚 Desafios de SQL no Beecrowd 🚀
 
@@ -57,3 +56,11 @@ A partir desses problemas, criei uma base de dados fictícia para analisar diver
 🔗 [Acesse a referência completa aqui!](https://www.example.com)
 
 ---
+
+## 🛠️ Desafio base de dados Detran->Desafio de Banco de dados 🗄️
+
+- 🌟 Projeto para gerenciar banco de dados com diferentes tecnologias.
+- 📂 Clique aqui para ser direcionado para a pasta: [Banco_de_Dados]("Banco_de_dados")
+
+
+
