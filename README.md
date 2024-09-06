@@ -6,8 +6,8 @@
 </div>
 
 # 📚 Problemas Beecrowd 📚
-<div align="center">
-  <img src="caminho-para-sua-imagem-do-beecrowd" alt="Beecrowd" style="width:100px;">
+<div align="left">
+  <img src="Imagens/BEE.png" alt="Beecrowd" style="width:100px;">
 </div>
 
 Os problemas de SQL no Beecrowd são desafios focados em consultas, manipulação e gerenciamento de dados. 💡 Eles testam sua habilidade de trabalhar com grandes conjuntos de dados e aplicar conhecimentos teóricos na prática. Além disso, são excelentes para aprimorar suas habilidades com bancos de dados relacionais! 🚀
@@ -15,16 +15,15 @@ Os problemas de SQL no Beecrowd são desafios focados em consultas, manipulaçã
 🔗 [Veja meu perfil no Beecrowd!](https://judge.beecrowd.com/pt/profile/980945) 
 
 <div align="center">
-  <img src="caminho-para-sua-imagem-do-beecrowd" alt="Beecrowd" style="width:100px;">
+  <img src="Imagens/Perfil.png" alt="Beecrowd" style="width:400px;">
 </div>
 
-Todos os exercício de sql estão resolvidos, use os códigos para estudar, por favor não copie.
-
+# ✅ Todos os exercícios de SQL estão resolvidos! 📘 Use os códigos para estudar, mas por favor, não copie! 🙏📚
+  🔗 [Veja os códigos feitos!]() 
 <div align="center">
-  <img src="caminho-para-sua-imagem-do-beecrowd" alt="Beecrowd" style="width:100px;">
-</div>
-<div align="center">
-  <img src="caminho-para-sua-imagem-do-beecrowd" alt="Beecrowd" style="width:100px;">
+  <img src="Imagens/SQL1.png" alt="Beecrowd" style="width:200px;">
+  <img src="https://img.icons8.com/ios/50/000000/long-arrow-right.png" alt="Seta" style="width:150px;">
+  <img src="Imagens/SQL2.png" alt="Beecrowd" style="width:200px;">
 </div>
 
 
