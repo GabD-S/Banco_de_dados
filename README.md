@@ -60,7 +60,7 @@ A partir desses problemas, criei uma base de dados fictícia para analisar diver
 ## 🛠️ Desafio base de dados Detran->Desafio de Banco de dados 🗄️
 
 - 🌟 Projeto para gerenciar banco de dados com diferentes tecnologias.
-- 📂 Clique aqui para ser direcionado para a pasta: [Banco_de_Dados](Base_detran)
+- 📂 Clique aqui para ser direcionado para a pasta: [Base detran](Base_detran)
 
 
 
