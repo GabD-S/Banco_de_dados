@@ -1,4 +1,4 @@
-# Desafio 1 - Base de dados do DETRAN
+# Desafio - Base de dados do DETRAN
 ## Enunciado
 
 O DETRAN deseja estabelecer um banco de dados para monitorar as infrações ocorridas no estado.
