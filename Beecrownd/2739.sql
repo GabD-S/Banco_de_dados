@@ -1,0 +1,1 @@
+select name,day(payday) from loan;

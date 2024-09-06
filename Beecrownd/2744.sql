@@ -1,0 +1,1 @@
+select id,password,MD5(password) as transformada from account;
