@@ -18,7 +18,7 @@ Os problemas de SQL no Beecrowd são desafios focados em consultas, manipulaçã
   <img src="caminho-para-sua-imagem-do-beecrowd" alt="Beecrowd" style="width:100px;">
 </div>
 
-Todos os exercício de sql estão resolvidos, use os códigos para estudar, por favor não copie
+Todos os exercício de sql estão resolvidos, use os códigos para estudar, por favor não copie.
 
 <div align="center">
   <img src="caminho-para-sua-imagem-do-beecrowd" alt="Beecrowd" style="width:100px;">
