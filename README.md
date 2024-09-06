@@ -5,10 +5,12 @@
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-# 📚 Problemas Beecrowd 📚
-<div align="left">
+<div align="center">
   <img src="Imagens/BEE.png" alt="Beecrowd" style="width:100px;">
 </div>
+
+
+# 📚 Problemas Beecrowd 📚
 
 Os problemas de SQL no Beecrowd são desafios focados em consultas, manipulação e gerenciamento de dados. 💡 Eles testam sua habilidade de trabalhar com grandes conjuntos de dados e aplicar conhecimentos teóricos na prática. Além disso, são excelentes para aprimorar suas habilidades com bancos de dados relacionais! 🚀
 
