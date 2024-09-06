@@ -25,7 +25,7 @@ Os problemas de SQL no **Beecrowd** são voltados para **consultas, manipulaçã
 
 Use os códigos para **estudar** e melhorar suas habilidades em SQL. No entanto, por favor, seja ético e **não copie** diretamente. Aprender é mais importante! 💡📚
 
-🔗 [Clique aqui para acessar os códigos completos!](#)
+🔗 [Clique aqui para acessar os códigos completos!](Beecrownd)
 
 <div align="center">
   <img src="Imagens/SQL1.png" alt="SQL Exercícios" style="width:200px;">
